@@ -1,0 +1,9 @@
+N-Body Problem Simulator
+
+Overview:
+This Python program simulates the N-body problem, modeling the gravitational interactions and motion of multiple celestial bodies using numerical methods.
+
+Requirements:
+    Python 3.8+
+    NumPy
+    Matplotlib
